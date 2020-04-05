@@ -19,3 +19,4 @@ This starter built in April 2020 has what seems to be the rightest way to get st
 * `rm -rf .git`
 * `$EDITOR package.json` (Rename the package)
 * `yarn`
+* `yarn pnpify --sdk` (if you want to use visual studio code)
